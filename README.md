@@ -53,7 +53,7 @@
 <h2 align="center">💻 Terminal</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/toiati-salah-eddine-001/toiati-salah-eddine-001/main/profile-terminal.svg" alt="Animated terminal profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C853&background=000000&center=false&vCenter=true&width=650&height=80&lines=salah@batcave:~%24+.%2Fstart_ai_engine.sh;%5B%2B%5D+Loading+Machine+Learning+Models...;%5B%2B%5D+Establishing+database+connections...;%5B%2B%5D+Welcome+back%2C+Batman.+%F0%9F%A6%87" alt="Animated terminal profile" style="border: 2px solid #0B6623; border-radius: 8px;" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
