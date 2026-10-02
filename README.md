@@ -2,7 +2,7 @@
 
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,60:063b17,100:0B6623&text=TOIATI%20SALAH%20EDDINE&fontColor=00C853&fontSize=44&fontAlignY=38&desc=AKA%20BATMANE%20%7C%20AI%20%2F%20DATA%20SCIENCE&descColor=FFFFFF&descSize=18&descAlignY=58&animation=twinkling" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,60:063b17,100:0B6623&text=TOIATI%20SALAH%20EDDINE&fontColor=00C853&fontSize=44&fontAlignY=38&desc=AKA%20BATMANE%20%7C%20AI%20%2F%20DATA%20SCIENCE&descColor=FFFFFF&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -20,10 +20,6 @@
   <a href="mailto:salahtoiati@gmail.com"><img src="https://img.shields.io/badge/Email-0B6623?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Replace YOUR_USERNAME with your Twitter/X handle -->
   <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00C853" alt="Twitter" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toiati-salah-eddine-001&label=PROFILE+VIEWS&color=0B6623&style=for-the-badge&labelColor=000000" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
@@ -67,21 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toiati-salah-eddine-001&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00C853&text_color=C9F7D9&icon_color=00C853&border_color=0B6623" alt="Top languages" />
   <img src="https://github-readme-stats.vercel.app/api/?username=toiati-salah-eddine-001&show_icons=true&locale=en&bg_color=000000&title_color=00C853&text_color=C9F7D9&icon_color=00C853&border_color=0B6623" alt="GitHub stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=toiati-salah-eddine-001&background=000000&ring=00C853&fire=00C853&currStreakLabel=00C853&currStreakNum=FFFFFF&sideLabels=C9F7D9&sideNums=FFFFFF&dates=9BE9B8&stroke=0B6623&border=0B6623" alt="Streak stats" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6623,100:000000&height=3" alt="divider" />
-
-<!-- ===== TERMINAL ===== -->
-<h2 align="center">💻 Terminal</h2>
-
-<p align="center">
-  <img width="100%" src="./assets/profile-terminal.svg" alt="Animated terminal" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
 
 <!-- ===== SUPPORT ===== -->
 <h2 align="center">☕ Support</h2>
