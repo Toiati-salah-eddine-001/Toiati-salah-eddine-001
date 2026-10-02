@@ -50,8 +50,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
 
 <!-- ===== TERMINAL ===== -->
-<h2 align="center">💻 Terminal</h2>
-
 <p align="center">
   <img width="720" src="https://capsule-render.vercel.app/api?type=rect&height=34&color=0:0B6623,100:000000&text=BATCAVE%20TERMINAL&fontColor=C9F7D9&fontSize=14&fontAlign=50&fontAlignY=55" alt="Terminal title bar" /><br>
   <img width="720" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=00E676&background=000000&center=true&vCenter=true&repeat=true&width=720&height=90&lines=salah%40batcave%3A~%24+.%2Fstart_ai_engine.sh;%5B%2B%5D+Loading+Machine+Learning+Models...;%5B%2B%5D+Establishing+database+connections...;%5B%2B%5D+Welcome+back%2C+Batman.+%F0%9F%A6%87" alt="Animated terminal" /><br>
