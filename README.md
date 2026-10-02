@@ -49,6 +49,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
 
+<!-- ===== TERMINAL ===== -->
+<h2 align="center">💻 Terminal</h2>
+
+<p align="center">
+  <img width="100%" src="./assets/profile-terminal.svg" alt="Animated terminal profile" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
+
 <!-- ===== SKILLS ===== -->
 <h2 align="center">🛠️ Languages and Tools</h2>
 
