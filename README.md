@@ -53,9 +53,7 @@
 <h2 align="center">💻 Terminal</h2>
 
 <p align="center">
-  <img width="700" src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0B6623,100:000000&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20batmane%40github%3A%20~%2Fprofile&fontColor=C9F7D9&fontSize=15&fontAlign=50&fontAlignY=52" alt="Terminal title bar" /><br>
-  <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=00C853&background=000000&center=false&vCenter=true&repeat=true&width=700&height=70&lines=++%24+whoami;++%3E+TOIATI+SALAH+EDDINE+a.k.a+BATMANE;++%24+cat+learning.txt;++%3E+MASTER+AI+%2F+DATA+SCIENCE;++%24+ls+expertise%2F;++%3E+AI+%7C+SOFTWARE-DEV+%7C+DATA-SCIENCE+%7C+DATA-ENGINEERING;++%24+.%2Fstart_ai_engine.sh;++%5B%2B%5D+Loading+Machine+Learning+models...;++%5B%2B%5D+Establishing+database+connections...;++%5B%2B%5D+Welcome+back%2C+Batman.+%F0%9F%A6%87" alt="Animated terminal" /><br>
-  <img width="700" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:000000,100:0B6623" alt="Terminal bottom bar" />
+  <img width="100%" src="https://raw.githubusercontent.com/toiati-salah-eddine-001/toiati-salah-eddine-001/main/profile-terminal.svg" alt="Batman terminal profile" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
