@@ -84,9 +84,11 @@
   </a>
 </p>
 
+<p align="center">⭐ ✨ 🌟 ✨ ⭐</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=00C853&background=00000000&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+%F0%9F%A6%87;Let's+build+something+great+together;Keep+learning.+Keep+building." alt="Closing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=00E676&background=00000000&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E2%AD%90+Thanks+for+visiting+%F0%9F%A6%87+%E2%AD%90;%E2%9C%A8+Let%27s+build+something+great+together+%E2%9C%A8;%F0%9F%8C%9F+Keep+learning.+Keep+building.+%F0%9F%8C%9F" alt="Closing animation" />
 </p>
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B6623,100:000000&section=footer&reversal=true&animation=fadeIn" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B6623,50:063b17,100:000000&section=footer&reversal=true&animation=twinkling" alt="Footer" />
