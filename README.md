@@ -2,7 +2,7 @@
 
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,60:063b17,100:0B6623&text=TOIATI%20SALAH%20EDDINE&fontColor=00C853&fontSize=44&fontAlignY=38&desc=AKA%20BATMANE%20%7C%20AI%20%2F%20DATA%20SCIENCE&descColor=FFFFFF&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,60:063b17,100:0B6623&text=TOIATI%20SALAH%20EDDINE&fontColor=00C853&fontSize=44&fontAlignY=38&desc=AKA%20BATMANE%20%7C%20AI%20%2F%20DATA%20SCIENCE&descColor=FFFFFF&descSize=18&descAlignY=58&animation=twinkling" alt="Banner" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -20,6 +20,10 @@
   <a href="mailto:salahtoiati@gmail.com"><img src="https://img.shields.io/badge/Email-0B6623?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Replace YOUR_USERNAME with your Twitter/X handle -->
   <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00C853" alt="Twitter" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=toiati-salah-eddine-001&label=PROFILE+VIEWS&color=0B6623&style=for-the-badge&labelColor=000000" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
@@ -64,6 +68,35 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=toiati-salah-eddine-001&show_icons=true&locale=en&bg_color=000000&title_color=00C853&text_color=C9F7D9&icon_color=00C853&border_color=0B6623" alt="GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=toiati-salah-eddine-001&background=000000&ring=00C853&fire=00C853&currStreakLabel=00C853&currStreakNum=FFFFFF&sideLabels=C9F7D9&sideNums=FFFFFF&dates=9BE9B8&stroke=0B6623&border=0B6623" alt="Streak stats" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6623,100:000000&height=3" alt="divider" />
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=toiati-salah-eddine-001&bg_color=000000&color=00C853&line=0B6623&point=FFFFFF&area=true&area_color=0B6623&title_color=00C853&hide_border=true" alt="Contribution graph" />
+</p>
+
+<!-- ===== SNAKE ===== -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toiati-salah-eddine-001/toiati-salah-eddine-001/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- ===== TROPHIES ===== -->
+<h2 align="center">🏆 Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=toiati-salah-eddine-001&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
+
 <!-- ===== SUPPORT ===== -->
 <h2 align="center">☕ Support</h2>
 
@@ -71,6 +104,10 @@
   <a href="https://www.buymeacoffee.com/THAKNS">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-THAKNS-0B6623?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=000000" alt="THAKNS" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=00C853&background=00000000&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+%F0%9F%A6%87;Let's+build+something+great+together;Keep+learning.+Keep+building." alt="Closing animation" />
 </p>
 
 <!-- ===== FOOTER ===== -->
