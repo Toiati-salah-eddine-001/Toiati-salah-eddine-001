@@ -74,25 +74,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B6623,100:000000&height=3" alt="divider" />
 
-<!-- ===== ACTIVITY GRAPH ===== -->
-<h2 align="center">📈 Contribution Activity</h2>
+<!-- ===== TERMINAL ===== -->
+<h2 align="center">💻 Terminal</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=toiati-salah-eddine-001&bg_color=000000&color=00C853&line=0B6623&point=FFFFFF&area=true&area_color=0B6623&title_color=00C853&hide_border=true" alt="Contribution graph" />
-</p>
-
-<!-- ===== SNAKE ===== -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/toiati-salah-eddine-001/toiati-salah-eddine-001/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<!-- ===== TROPHIES ===== -->
-<h2 align="center">🏆 Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toiati-salah-eddine-001&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img width="100%" src="./assets/profile-terminal.svg" alt="Animated terminal" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B6623&height=3" alt="divider" />
